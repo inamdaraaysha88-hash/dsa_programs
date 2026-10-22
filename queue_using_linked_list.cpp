@@ -115,11 +115,11 @@ int main()
     return 0;
 }
 /*
-PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ queue_using_linked_list.cpp -o queue_using_linked_list } ; if ($?) { .\queue_using_linked_list}
+PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ queue_using_linked_list.cpp -o queue_using_linked_list } ; if ($?) { .\queue_using_linked_list}
 
 Queue elements: 10      20      30      40      50      60
 Removeed:10
 Queue elements: 20      30      40      50      60
 Front element is:10
-PS D:\Samiksha Gunjal> 
+PS D:\Aaysha Inamdar> 
 */

@@ -135,7 +135,7 @@ int main()
     return 0;
 }
 /*
-PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ Stack_using_array.cpp -o Stack_using_array } ; if ($?) { .\Stack_using_array }
+PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ Stack_using_array.cpp -o Stack_using_array } ; if ($?) { .\Stack_using_array }
 stack contents after push operation:
 10
 stack contents after push operation:
@@ -185,4 +185,4 @@ poped out element is 10
 stack contents after pop operation: 
 stack is empty
 stack contents after pop operation: 
-PS D:\Samiksha Gunjal> */
+PS D:\Aaysha Inamdar> */

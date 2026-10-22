@@ -32,7 +32,7 @@ int main()
 
 
 /*
-PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ linear_search.cpp -o linear_search } ; if ($?) { .\linear_search }
+PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ linear_search.cpp -o linear_search } ; if ($?) { .\linear_search }
 how many element=6
 enter 6 elements=10
 20

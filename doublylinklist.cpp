@@ -118,7 +118,7 @@ int main() {
 
     return 0;
 }/*
-PS C:\Users\samiksha\OneDrive\samikshagunjal> cd "c:\Users\samiksha\OneDrive\samikshagunjal\" ; if ($?) { g++ doublylinklist.cpp -o doublylinklist } ; if ($?) { .\doublylinklist }
+PS C:\Users\Aaysha Inamdar\OneDrive\Aaysha Inamdar> cd "c:\Users\Aaysha Inamdar\OneDrive\Aaysha Inamdar" ; if ($?) { g++ doublylinklist.cpp -o doublylinklist } ; if ($?) { .\doublylinklist }
 Forward: 10 <-> 20 <-> 30 <-> NULL
 Backward: 30 <-> 20 <-> 10 <-> NULL
 Forward: 10 <-> 30 <-> NULL

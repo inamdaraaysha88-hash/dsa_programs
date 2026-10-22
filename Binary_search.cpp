@@ -37,7 +37,7 @@ int main()
 }
 
 /*
-PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ Binary_search.cpp -o Binary_search } ; if ($?) { .\Binary_search }
+PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ Binary_search.cpp -o Binary_search } ; if ($?) { .\Binary_search }
 how many element=9
 enter 9 elements=10
 20
@@ -52,7 +52,7 @@ Enter the element to be search=70
 element found at position=6
 
 
-PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ Binary_search.cpp -o Binary_search } ; if ($?) { .\Binary_search }
+PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ Binary_search.cpp -o Binary_search } ; if ($?) { .\Binary_search }
 how many element=5
 enter 5 elements=45
 35

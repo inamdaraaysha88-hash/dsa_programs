@@ -155,7 +155,7 @@ int main()
     return 0;
 };
 /*
-PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ Queue_using_array.cpp -o Queue_using_array } ; if ($?) { .\Queue_using_array }
+PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ Queue_using_array.cpp -o Queue_using_array } ; if ($?) { .\Queue_using_array }
  queue contents after enqueue operation:
         10queue contents after enqueue operation:
         10      20queue contents after enqueue operation:
@@ -176,5 +176,5 @@ queue contents after dequeue operation:
         1973414480queue is empty
 queue contents after dequeue operation:
         1973414480
-PS D:\Samiksha Gunjal> 
+PS D:\Aaysha Inamdar> 
 */

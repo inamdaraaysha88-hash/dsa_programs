@@ -51,9 +51,9 @@
                              return 0; 
                             }
  /*
-  PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ postfix_using_stack.cpp -o postfix_using_stack } ; if ($?) { .\postfix_using_stack }
+  PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ postfix_using_stack.cpp -o postfix_using_stack } ; if ($?) { .\postfix_using_stack }
  Enter postfix Expression :52+
  Answer=7
-PS D:\Samiksha Gunjal>*/
+PS D:\Aaysha Inamdar>*/
                          
                          

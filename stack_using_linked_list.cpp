@@ -70,7 +70,7 @@ int main(){
        return 0;
     }
     /*
-    PS D:\Samiksha Gunjal> cd "d:\Samiksha Gunjal\" ; if ($?) { g++ stack_using_linked_list.cpp -o stack_using_linked_list } ; if ($?) { .\stack_using_linked_list }
+    PS D:\Aaysha Inamdar> cd "d:\Aaysha Inamdar\" ; if ($?) { g++ stack_using_linked_list.cpp -o stack_using_linked_list } ; if ($?) { .\stack_using_linked_list }
 
 30
 20
@@ -80,5 +80,5 @@ Removed =30
 
 20
 10
-PS D:\Samiksha Gunjal> 
+PS D:\Aaysha Inamdar> 
 */
